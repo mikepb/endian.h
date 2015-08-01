@@ -1,0 +1,9 @@
+{
+  "name": "endian",
+  "version": "0.0.1",
+  "repo": "mikepb/endian.h",
+  "description": "Portable endian conversion functions for C",
+  "keywords": ["portable", "endian"],
+  "license": "PD",
+  "src": ["endian.h"]
+}
