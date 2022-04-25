@@ -22,7 +22,7 @@
 
 #if defined(__linux__) || defined(__CYGWIN__)
 
-#	include <endian.h>
+#	include_next <endian.h>
 
 #elif defined(__APPLE__)
 
